@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://job.yohan1002.com/sitemap.xml
